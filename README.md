@@ -1,5 +1,5 @@
 
-## SA App Development Pancake Challenge
+## Development Pancake Challenge
 
 ### The Challenge
 
